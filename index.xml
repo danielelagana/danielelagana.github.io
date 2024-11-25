@@ -14,5 +14,34 @@
 	<atom:link href="https://danielelagana.tech/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Credit Card Fraud Detection</title>
+      <link>https://danielelagana.tech/projects/my-first-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danielelagana.tech/projects/my-first-project/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;h1 id=&#34;credit-card-fraud-detection&#34;&gt;
+  Credit Card Fraud Detection
+  &lt;a href=&#34;#credit-card-fraud-detection&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This project focuses on detecting credit card fraud using various machine learning techniques. The primary challenge in this domain is the substantial imbalance between fraudulent and non-fraudulent transactions. This project aims to address this issue by leveraging different machine learning models and techniques to improve fraud detection accuracy and computational efficiency.&lt;/p&gt;
+&lt;h2 id=&#34;project-overview&#34;&gt;
+  Project Overview
+  &lt;a href=&#34;#project-overview&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Credit card fraud detection is a critical task in the financial industry due to the significant financial losses and emotional distress it causes. The primary challenge in this domain is the substantial imbalance between fraudulent and non-fraudulent transactions. This project aims to address this issue by leveraging different machine learning models and techniques to improve fraud detection accuracy and computational efficiency.&lt;/p&gt;
+          
+        
+        </description>
+    </item>
+    
   </channel>
 </rss>
