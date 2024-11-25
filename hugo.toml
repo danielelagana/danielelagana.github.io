@@ -1,0 +1,12 @@
+
+baseURL = "https://danielelagana.tech/"
+languageCode = "en-us"
+title = "Daniele Laganà"
+theme = "hello-friend"
+
+[params]
+  description = "Welcome to my personal website"
+  contactFormAction = "" # Optionally add a contact form endpoint
+  github = "https://github.com/danielelagana"
+  linkedin = "https://www.linkedin.com/in/danielelagana/"
+  email = "danielelagana@outlook.it"
